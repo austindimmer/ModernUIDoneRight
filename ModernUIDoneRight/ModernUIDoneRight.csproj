@@ -8,9 +8,6 @@
     <ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="System.Design" />
-  </ItemGroup>
-  <ItemGroup>
     <Compile Update="Controls\AppBar.cs">
       <SubType>Component</SubType>
     </Compile>
